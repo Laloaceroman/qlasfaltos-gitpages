@@ -644,7 +644,7 @@ app.slider = {
           return app.slider.next($(this));
         });
         return play();
-      }, 6000);
+      }, 4000);
     };
     return play();
   }
